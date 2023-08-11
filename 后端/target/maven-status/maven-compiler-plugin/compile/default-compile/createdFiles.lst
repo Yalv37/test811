@@ -1,0 +1,11 @@
+cuz\gpa\model\Course.class
+cuz\gpa\controller\CourseController.class
+cuz\gpa\mapper\ScoreMapper.class
+cuz\gpa\controller\GpaController.class
+cuz\gpa\mapper\StudentMapper.class
+cuz\gpa\GpaApplication.class
+cuz\gpa\model\Score.class
+cuz\gpa\controller\StudentController.class
+cuz\gpa\mapper\CourseMapper.class
+cuz\gpa\model\Student.class
+cuz\gpa\model\testac.class
