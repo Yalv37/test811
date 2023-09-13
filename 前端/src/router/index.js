@@ -2,6 +2,7 @@ import { createRouter,createWebHistory } from "vue-router"
 import ContainerC from '../components/ContainerC'
 import StudentC from '../components/StudentC'
 import CourseC from '../components/CourseC'
+import Student1C from '../components/Student1C'
 
 const routes=[{
     path:"/",
@@ -17,6 +18,11 @@ const routes=[{
             path:"course",
             name:"course",
             component:CourseC,
+        },
+        {
+            path:"student1",
+            name:"student1",
+            component:Student1C,
         },
     ]
 }]

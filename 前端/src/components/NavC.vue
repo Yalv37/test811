@@ -9,6 +9,9 @@
             <el-menu-item index="course">
                 <span>课程列表</span>
             </el-menu-item>
+            <el-menu-item index="student1">
+                <span>优秀学生</span>
+            </el-menu-item>
         </el-menu>
     </div>
 </template>
